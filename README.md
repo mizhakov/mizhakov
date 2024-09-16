@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет!👋
 
-<!--
-**mizhakov/mizhakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Я хочу стать DevOps 😅 | Ранее системный администратор
 
-Here are some ideas to get you started:
+Я специализируюсь на:
+- 📦 Контейнеризация: Docker (средний), Docker Swarm (начальный)
+- 📜 Управление конфигурациями: Ansible (начальный)
+- 🚀 CI/CD: GitLab (начальный)
+- 💾 Управление версиями: Git (средний)
+- 📊 Мониторинг и логирование: Prometheus, Grafana, cAdvisor, NodeExporter, Zabbix (начальный)
+- 🌐 Веб-серверы: Nginx (средний), Traefik (начальный)
+- 🖥️ Операционные системы: Linux Debian (средний), Windows Server (средний)
+- 🖥️ Виртуализация: Proxmox, VMware ESXi
+- 🛜 Сетевое оборудование: Mikrotik, UniFi, CapsMan
+- 👨‍💻 Программирование: Bash(начальный), Python (начальный, пока могу только читать код)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Пример моей работы с Ansible и там же есть шаблоны:
+[Ansible project](https://github.com/mizhakov/test_ansible)
+
+Связаться со мной:
+- 📨 Telegram: [@sangiso](https://t.me/sangiso)
